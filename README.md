@@ -58,11 +58,3 @@ I specialize in **Quantitative Research**, **Systematic Asset Allocation**, **Ma
 - **Institut Polytechnique de Paris** | MS in Computer Science (Distributed Systems) — GPA: 3.7/4.0
 - **Telecom SudParis** | Engineering Degree in Computational Sciences — GPA: 3.8/4.0
 
----
-
-### 📈 GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lflsphere&show_icons=true&theme=radial&hide_border=true" alt="Louis's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lflsphere&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
